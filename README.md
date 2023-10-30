@@ -8,9 +8,9 @@ CHỨC NĂNG HỆ THỐNG ADMIN ,
 
 QUẢN LÝ THÔNG TIN VỀ CÁC CA NHIỄM,
 
--thêm sửa xóa số lượng các ca nhiễm theo ngày
+-thêm sửa xóa số lượng các ca nhiễm theo ngày.
 
-- phân trang, xắp xếp,
+-phân trang, xắp xếp,
 
 QUẢN LÝ THÔNG TIN VỀ CÁC BÀI VIẾT COVID,
 
